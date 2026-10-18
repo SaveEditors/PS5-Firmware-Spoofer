@@ -1,4 +1,4 @@
-# PS5 12.60 system version spoof
+# PS5 Firmware spoofer (Live editing + Offline)
 
 Changes the system software version shown in Settings > System > System
 Information on firmware 12.60, built on top of AniketosHEN.
