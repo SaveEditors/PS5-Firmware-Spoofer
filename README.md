@@ -3,6 +3,8 @@
 Changes the system software version shown in Settings > System > System
 Information on firmware 12.60, built on top of AniketosHEN.
 
+<img width="680" height="351" alt="image" src="https://github.com/user-attachments/assets/615f0ac7-4703-40b9-8b6e-0661367f2df7" />
+
 Only the firmware number inside the string is swapped, so the row keeps its
 normal shape and length:
 
@@ -17,7 +19,6 @@ AniketosHEN home screen features work exactly as before. The value can also
 be changed live from a browser while the console is running.
 
 Video: https://x.com/SaveEditors/status/2111567506909565087
-<img width="680" height="351" alt="image" src="https://github.com/user-attachments/assets/615f0ac7-4703-40b9-8b6e-0661367f2df7" />
 
 ## What you need
 
