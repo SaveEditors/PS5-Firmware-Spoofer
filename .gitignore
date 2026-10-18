@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+out/
+stock/*.elf
+tools/live_version.txt
