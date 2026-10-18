@@ -16,6 +16,8 @@ Nothing else is affected. The version the system actually reports stays real
 AniketosHEN home screen features work exactly as before. The value can also
 be changed live from a browser while the console is running.
 
+Video: https://x.com/SaveEditors/status/2111567506909565087
+
 ## What you need
 
 - PS5 on 12.60 (not tested on other firmware versions)
